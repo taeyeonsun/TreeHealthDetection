@@ -12,3 +12,21 @@
 
 
 https://github.com/seatgeek/thefuzz
+
+
+### 접속자 ip address 확인
+
+for addr in ni.interfaces():
+
+    if addr == 'en0' or addr =='eth0' or addr=='lo0' or addr=='en1' or addr=='eth1' or addr == 'ens4':
+
+        try:
+
+            ip = ni.ifaddresses(addr)[ni.AF_INET][0]['addr']
+
+            logging.debug("your ip address is : " + ip)
+
+
+        except:
+
+            logging.debug("exception")
