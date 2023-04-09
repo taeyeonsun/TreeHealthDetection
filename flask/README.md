@@ -37,3 +37,6 @@ for addr in ni.interfaces():
         except:
 
             logging.debug("exception")
+
+
+https://pypi.org/project/netifaces/
