@@ -7,6 +7,11 @@
 
 https://www.uvm.edu/femc/data/archive/project/forest-health-monitoring/dataset/tree-health-and-physiology-measurements/metadata
 
+###### 1) 잘못된 가지치기 
+
+![motor_control2](./image/tree1.jpg)
+
+
 ###### 2. 정밀 조사
 
 http://www.newsda.net/news/article.html?no=32126
