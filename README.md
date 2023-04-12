@@ -26,4 +26,6 @@ https://www.joongang.co.kr/article/23813343#home
 
 ###### 2. 정밀 조사
 
+https://www.youtube.com/watch?v=zarll9bx6FI
+
 http://www.newsda.net/news/article.html?no=32126
