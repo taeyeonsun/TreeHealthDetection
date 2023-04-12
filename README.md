@@ -26,6 +26,10 @@ https://www.joongang.co.kr/article/23813343#home
 
 ###### 2. 정밀 조사
 
+###### What happens if you cut down all of a city's trees? - Stefan Al
+
 https://www.youtube.com/watch?v=zarll9bx6FI
+
+###### 도, 올해 첫 도입 '생육안전진단 사업' 현장 점검‥보호수 체계적 ...
 
 http://www.newsda.net/news/article.html?no=32126
