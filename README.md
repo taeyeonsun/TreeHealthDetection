@@ -9,7 +9,13 @@ https://www.uvm.edu/femc/data/archive/project/forest-health-monitoring/dataset/t
 
 ###### 1) 잘못된 가지치기 
 
-![motor_control2](./image/tree1.jpg)
+![tree1](./image/tree1.jpg)
+
+
+###### 2) 뿌리 주변 시멘트로 덮는 경우
+
+![tree2](./image/tree2.jpg)
+
 
 
 ###### 2. 정밀 조사
