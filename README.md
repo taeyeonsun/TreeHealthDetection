@@ -16,7 +16,11 @@ https://www.uvm.edu/femc/data/archive/project/forest-health-monitoring/dataset/t
 
 ![tree2](./image/tree2.jpg)
 
+###### 3) 강수량 부족으로 인한 침엽수 고사
 
+![tree3](./image/tree3.jpg)
+
+https://www.joongang.co.kr/article/23813343#home
 
 ###### 2. 정밀 조사
 
