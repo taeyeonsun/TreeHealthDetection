@@ -24,6 +24,12 @@ https://www.uvm.edu/femc/data/archive/project/forest-health-monitoring/dataset/t
 
 https://www.joongang.co.kr/article/23813343#home
 
+###### 4) 전기선 근처 나무
+
+![tree4](./image/tree4.jpg)
+
+https://www.consolidatedelectric.com/tree-trimming
+
 ###### 2. 정밀 조사
 
 ###### 1) What happens if you cut down all of a city's trees? - Stefan Al
