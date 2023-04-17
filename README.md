@@ -28,7 +28,7 @@ https://www.joongang.co.kr/article/23813343#home
 
 ![tree4](./image/tree4.jpg)
 
-https://www.consolidatedelectric.com/tree-trimming
+https://news.nate.com/view/20230413n04216
 
 ###### 2. 정밀 조사
 
@@ -43,3 +43,11 @@ http://www.newsda.net/news/article.html?no=32126
 ###### 3) Expert Advice to Recognize a Sick or Dead Tree
 
 https://www.youtube.com/watch?v=DvKUelm1NJ4
+
+
+##### 머신러닝 제안 
+
+###### 1) SVM 
+https://medium.com/@ricardo.zuccolo/self-driving-cars-opencv-and-svm-machine-learning-with-scikit-learn-for-vehicle-detection-on-the-bf88860e055a
+###### 2) CNN 
+https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9
